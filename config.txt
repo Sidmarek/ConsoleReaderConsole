@@ -1,0 +1,4 @@
+YoutubeDirPath=C:\2_Personal\Youtube-Download\
+FacebookDirPath=C:\2_Personal\Facebook-Download\
+OtherDirPath=C:\2_Personal\Other-Download\
+YoutubeDLPath=C:\2_Personal\
